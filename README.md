@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @voidkenny
+- ❇️ Hi, I’m @voidkenny
 
 <!---
 voidkenny/voidkenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
