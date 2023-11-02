@@ -11,7 +11,7 @@
 
 ### IDE Tools:
 <img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" /> [Visual Studio Code](https://code.visualstudio.com/)
-<img align="left" alt="Microsoft Visual C++" width="27px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/10/visual-cpp-32x32.png" /> [Microsoft Visual C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
+<img align="left" alt="Microsoft Visual C++" width="27px" src="YOUR_LOGO_LINK_HERE" /> [Microsoft Visual C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 <br />
 <br />
