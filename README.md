@@ -3,7 +3,7 @@
 
 ### Languages:
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="left" alt="C#" width="48px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
+<img align="left" alt="C#" width="26px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt="Java" width="26px" src="https://logowik.com/content/uploads/images/731_java.jpg" />
 <br />
 <br />
@@ -14,6 +14,7 @@
 <img align"left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity3D" width="26px" src="https://p1.hiclipart.com/preview/225/298/467/numix-circle-for-windows-unity-editor-icon-png-icon.jpg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
 
 <br />
 <br />
