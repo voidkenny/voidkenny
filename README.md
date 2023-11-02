@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voidkenny)
 
 ### Languages:
-<img align="left" alt="C++" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" />
+<img align="left" alt="C++" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
