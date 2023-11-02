@@ -1,9 +1,9 @@
 ### Hi there, I'm KenGG👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=voidkenny.voidkenny))
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=voidkenny)
 
 ### Connect with me:
 
-[<img align="left" alt="@voidken" width="22px" src="[https://example.com/your-telegram-icon.png](https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s75-rw)" />]
+[<img align="left" alt="@voidken" width="22px" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s75-rw" />]
 
 <br />
 
