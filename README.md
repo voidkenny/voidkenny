@@ -10,7 +10,7 @@
 <br />
 
 ### Tools:
-<img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-plain.svg" />
 <img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img align="left" alt="GitHub" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Terminal" width="27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
