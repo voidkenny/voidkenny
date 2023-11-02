@@ -1,0 +1,3 @@
+[user]
+	email = ryuukiken3012@gmail.com\n\n\ngit config --global user.name voidkenny\n\n\n\ngit config --global user.email ryuukiken3012@gmail.com
+	name = voidkenny
