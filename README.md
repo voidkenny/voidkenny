@@ -10,7 +10,7 @@
 ### Languages:
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C#" width="48px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
-<img align="left" alt="Java" width="26px" src="https://example.com/java-logo.png" />
+<img align="left" alt="Java" width="26px" src="[https://example.com/java-logo.png](https://logowik.com/content/uploads/images/731_java.jpg)" />
 <br />
 <br />
 
